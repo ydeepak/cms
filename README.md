@@ -1,8 +1,10 @@
 Coourse Management System
 
 A web-based  project written completely in PYTHON, to manage school/college related events.
-•	Offered full ﬂedged control to faculty as admin,users, students as users, worked as a 
-Front-end coder.
+•	Offered full ﬂedged control to faculty as admin,users, students as users, 
+
+Worked as a Front and Back end coder.
+
 •	Online polls for posted topics, 
 •	Calendar for updates of  announcements from teachers 
 •	Database  of all courses, time-table, study materials.
